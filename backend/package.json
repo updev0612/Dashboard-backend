@@ -36,7 +36,7 @@
     "bcrypt": "^3.0.6",
     "dotenv": "^8.1.0",
     "fastify-swagger": "^2.4.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "multer-s3": "^2.9.0",
     "mysql2": "^1.6.5",
     "nest-cli": "^0.0.5",
